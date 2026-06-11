@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e4a3e" />
+      <stop offset="100%" stop-color="#5ac4b8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#grad9)" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-size="60" fill="#fff">Queenstown, New Zealand</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-size="32" fill="#fff" opacity="0.9">Mountain lakeside luxury</text>
+</svg>

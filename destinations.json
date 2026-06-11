@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Paris, France",
+    "country": "France",
+    "region": "Europe",
+    "duration": "7 nights / 8 days",
+    "accommodation": "Five-star city hotel",
+    "description": "Experience the city of light with artful dining, private Seine cruises, and lavish Parisian stays.",
+    "price": "$3,500+",
+    "image": "/images/destination-1.svg",
+    "gallery": [
+      "/images/destination-1.svg",
+      "/images/destination-1.svg",
+      "/images/destination-1.svg"
+    ],
+    "highlights": [
+      "Private Louvre and Versailles access",
+      "Gourmet Michelin-star dining",
+      "Chauffeured river cruise on the Seine",
+      "Boutique shopping in Saint-Germain"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bali, Indonesia",
+    "country": "Indonesia",
+    "region": "Asia",
+    "duration": "6 nights / 7 days",
+    "accommodation": "Oceanfront villa resort",
+    "description": "Pristine beaches, cultural ceremonies, and barefoot luxury await in Bali's most secluded hideaways.",
+    "price": "$2,800+",
+    "image": "/images/destination-2.svg",
+    "gallery": [
+      "/images/destination-2.svg",
+      "/images/destination-2.svg",
+      "/images/destination-2.svg"
+    ],
+    "highlights": [
+      "Sunrise yoga and private beach rituals",
+      "Culinary journey with a Balinese chef",
+      "Helicopter island hopping",
+      "Spa wellness days at a private estate"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Maldives",
+    "country": "Maldives",
+    "region": "Asia",
+    "duration": "5 nights / 6 days",
+    "accommodation": "Overwater villa retreat",
+    "description": "Escape to crystalline lagoons, underwater dining, and world-class marine adventures in the Maldives.",
+    "price": "$4,200+",
+    "image": "/images/destination-3.svg",
+    "gallery": [
+      "/images/destination-3.svg",
+      "/images/destination-3.svg",
+      "/images/destination-3.svg"
+    ],
+    "highlights": [
+      "Private yacht cruise and diving excursions",
+      "Sunset sushi on the water",
+      "Spa treatments in a lagoon pavilion",
+      "Secluded island picnic experience"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tokyo, Japan",
+    "country": "Japan",
+    "region": "Asia",
+    "duration": "5 nights / 6 days",
+    "accommodation": "Luxury city tower hotel",
+    "description": "Discover Tokyo's neon energy, chef-led omakase dining, and private cultural tours with a luxury concierge.",
+    "price": "$3,900+",
+    "image": "/images/destination-4.svg",
+    "gallery": [
+      "/images/destination-4.svg",
+      "/images/destination-4.svg",
+      "/images/destination-4.svg"
+    ],
+    "highlights": [
+      "Private sushi master experience",
+      "Cherry blossom garden evening tour",
+      "Luxury shopping in Ginza",
+      "Nighttime skyline dinner at a sky lounge"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "New York, USA",
+    "country": "United States",
+    "region": "North America",
+    "duration": "4 nights / 5 days",
+    "accommodation": "Luxury boutique hotel",
+    "description": "A premium city escape with theater, private museum access, and a curated culinary itinerary in Manhattan.",
+    "price": "$3,200+",
+    "image": "/images/destination-5.svg",
+    "gallery": [
+      "/images/destination-5.svg",
+      "/images/destination-5.svg",
+      "/images/destination-5.svg"
+    ],
+    "highlights": [
+      "Broadway premiere seating",
+      "Private art gallery tour",
+      "Helicopter skyline flight",
+      "Rooftop cocktail reception with city views"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Rome, Italy",
+    "country": "Italy",
+    "region": "Europe",
+    "duration": "6 nights / 7 days",
+    "accommodation": "Historic luxury palazzo",
+    "description": "Journey through Rome's legendary art, private Vatican tours, and candlelit dinner experiences.",
+    "price": "$2,700+",
+    "image": "/images/destination-6.svg",
+    "gallery": [
+      "/images/destination-6.svg",
+      "/images/destination-6.svg",
+      "/images/destination-6.svg"
+    ],
+    "highlights": [
+      "After-hours Colosseum access",
+      "Private Roman cooking class",
+      "Vintage car city tour",
+      "Champagne terrace at sunset"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cape Town, South Africa",
+    "country": "South Africa",
+    "region": "Africa",
+    "duration": "7 nights / 8 days",
+    "accommodation": "Seaside villa estate",
+    "description": "Enjoy coastal luxury, private wine tastings, and curated safaris from your exclusive Cape Town base.",
+    "price": "$2,600+",
+    "image": "/images/destination-7.svg",
+    "gallery": [
+      "/images/destination-7.svg",
+      "/images/destination-7.svg",
+      "/images/destination-7.svg"
+    ],
+    "highlights": [
+      "Private cable car summit of Table Mountain",
+      "Exclusive coastal helicopter tour",
+      "Wine estate reserve tasting",
+      "Oceanfront seaside dining"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Dubai, UAE",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "duration": "5 nights / 6 days",
+    "accommodation": "Ultra-modern city resort",
+    "description": "Lift off into Dubai's high-end skyline, desert luxury, and curated shopping experiences.",
+    "price": "$4,500+",
+    "image": "/images/destination-8.svg",
+    "gallery": [
+      "/images/destination-8.svg",
+      "/images/destination-8.svg",
+      "/images/destination-8.svg"
+    ],
+    "highlights": [
+      "Private desert safari and dining",
+      "Burj Khalifa VIP lounge",
+      "Supercar coastal drive",
+      "Luxury marina yacht cruise"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Queenstown, New Zealand",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "duration": "6 nights / 7 days",
+    "accommodation": "Lakeside luxury lodge",
+    "description": "Adventure and luxury combine in Queenstown with alpine escapes, private lake tours, and signature lodges.",
+    "price": "$3,300+",
+    "image": "/images/destination-9.svg",
+    "gallery": [
+      "/images/destination-9.svg",
+      "/images/destination-9.svg",
+      "/images/destination-9.svg"
+    ],
+    "highlights": [
+      "Private Milford Sound cruise",
+      "Heli-hiking and glacier views",
+      "Luxury lakefront dining",
+      "Boutique adventure concierge service"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Santorini, Greece",
+    "country": "Greece",
+    "region": "Europe",
+    "duration": "5 nights / 6 days",
+    "accommodation": "Cliffside luxury villa",
+    "description": "Savor iconic sunsets, private catamaran cruises, and hillside suites on Santorini's spectacular caldera.",
+    "price": "$3,700+",
+    "image": "/images/destination-10.svg",
+    "gallery": [
+      "/images/destination-10.svg",
+      "/images/destination-10.svg",
+      "/images/destination-10.svg"
+    ],
+    "highlights": [
+      "Sunset dinner on a private terrace",
+      "Catamaran sailing to hidden beaches",
+      "VIP winery tasting tour",
+      "Boutique shopping in Oia"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Kyoto, Japan",
+    "country": "Japan",
+    "region": "Asia",
+    "duration": "6 nights / 7 days",
+    "accommodation": "Traditional luxury ryokan",
+    "description": "Embrace Kyoto's serene temples, private tea ceremonies, and exclusive ryokan hospitality.",
+    "price": "$3,100+",
+    "image": "/images/destination-11.svg",
+    "gallery": [
+      "/images/destination-11.svg",
+      "/images/destination-11.svg",
+      "/images/destination-11.svg"
+    ],
+    "highlights": [
+      "Private shrine visit with local guide",
+      "Kaiseki dinner in a heritage home",
+      "Bamboo forest and tea ceremony",
+      "Luxury river boat experience"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Reykjav\u00edk, Iceland",
+    "country": "Iceland",
+    "region": "Europe",
+    "duration": "5 nights / 6 days",
+    "accommodation": "Designer geothermal lodge",
+    "description": "See the northern lights, geothermal spas, and dramatic landscapes from a refined Icelandic base.",
+    "price": "$4,000+",
+    "image": "/images/destination-12.svg",
+    "gallery": [
+      "/images/destination-12.svg",
+      "/images/destination-12.svg",
+      "/images/destination-12.svg"
+    ],
+    "highlights": [
+      "Northern Lights private viewing",
+      "Blue Lagoon premium spa access",
+      "Golden Circle luxury tour",
+      "Glacier lagoon photography experience"
+    ]
+  }
+]
